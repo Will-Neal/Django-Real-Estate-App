@@ -7,5 +7,5 @@ def index(request):
 def about(request):
     return render(request, 'pages/about.html')
 
-def listings(request):
-    return render(request, 'pages/listings.html')
+# def listings(request):
+#     return render(request, 'pages/listings.html')
