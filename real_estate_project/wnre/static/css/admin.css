@@ -1,0 +1,70 @@
+#header {
+    height: 50px;
+    background: #10284e;
+    color: #979797;
+}
+
+#branding h1 {
+    color: white;
+}
+
+table {
+    background: #10284e;
+}
+
+div.breadcrumbs {
+    background: #f7df1e;
+    color: #222429;
+}
+
+div.breadcrumbs a {
+    color: #979797;
+}
+
+div.app-auth table caption{
+    background: #3481ef;
+}
+
+div.app-auth table caption a{
+    color: #979797;
+}
+
+div.app-listings table caption{
+    background: #3481ef;
+}
+
+div.app-listings table caption a{
+    color: #979797;
+}
+
+div.app-realtors table caption{
+    background: #3481ef;
+}
+
+div.app-realtors table caption a{
+    color: #979797;
+}
+
+th.field-__str__ a{
+    color: #222429;
+}
+
+tr.model-group th a{
+    color: #222429;
+}
+
+tr.model-user th a{
+    color: #222429;
+}
+
+tr.model-listing th a{
+    color: #222429;
+}
+
+tr.model-listing th a{
+    color: #222429;
+}
+
+tr.model-realtor th a{
+    color: #222429;
+}

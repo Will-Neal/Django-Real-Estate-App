@@ -1,0 +1,45 @@
+
+nav.navbar {
+    background: #222429 !important;
+}
+
+/* div.container {
+    background: #222429;
+} */
+
+button.btn {
+    background-color: #3481ef;
+    border-color: #3481ef;
+}
+
+span.badge {
+    background-color: #3481ef;
+}
+
+div.col-6 {
+    color: #222429;
+}
+
+/* section #services {
+    background-color: #3481ef;
+}
+
+#services div.container {
+    background-color: #3481ef;
+} */
+
+/* i.fas {
+    color: #3481ef;
+} */
+
+div.services {
+    background-color: #3481ef;
+}
+
+footer.footer {
+    background-color: #222429;
+}
+
+i.icon {
+    color: #3481ef;
+}
